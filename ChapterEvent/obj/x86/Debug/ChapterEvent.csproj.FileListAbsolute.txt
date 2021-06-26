@@ -1,0 +1,6 @@
+/home/burning/Projects/ChapterEvent/ChapterEvent/bin/Debug/ChapterEvent.exe
+/home/burning/Projects/ChapterEvent/ChapterEvent/bin/Debug/ChapterEvent.pdb
+/home/burning/Projects/ChapterEvent/ChapterEvent/obj/x86/Debug/ChapterEvent.csprojAssemblyReference.cache
+/home/burning/Projects/ChapterEvent/ChapterEvent/obj/x86/Debug/ChapterEvent.csproj.CoreCompileInputs.cache
+/home/burning/Projects/ChapterEvent/ChapterEvent/obj/x86/Debug/ChapterEvent.exe
+/home/burning/Projects/ChapterEvent/ChapterEvent/obj/x86/Debug/ChapterEvent.pdb

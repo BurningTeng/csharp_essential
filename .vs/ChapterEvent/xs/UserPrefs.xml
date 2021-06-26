@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E63694AE-1072-484C-BB69-F29F271E1F28}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChapterEvent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChapterEvent/Program.cs">
+    <Files>
+      <File FileName="ChapterEvent/Program.cs" Line="16" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChapterEvent" expanded="True">
+            <Node name="ChapterEvent" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/burning/Projects/ChapterEvent/ChapterEvent/Cooler.cs" relfile="ChapterEvent/Cooler.cs" line="16" column="1" />
+      <Breakpoint file="/home/burning/Projects/ChapterEvent/ChapterEvent/Heater.cs" relfile="ChapterEvent/Heater.cs" line="23" column="1" />
+      <Breakpoint file="/home/burning/Projects/ChapterEvent/ChapterEvent/Heater.cs" relfile="ChapterEvent/Heater.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
